@@ -27,5 +27,3 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [gigikenneth7@gmail.com](mailto:gigikenneth7@gmail.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-
-You can modify this code of conduct further to suit your project's specific needs, but it's important to emphasize the importance of collaboration, respect, and diversity, and to create a safe and inclusive environment for all contributors.
