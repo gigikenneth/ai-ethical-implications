@@ -1,7 +1,7 @@
 # Ethical Implications of AI
 
 - This repository is created as part of the [7th cohort of the OLS program](https://openlifesci.org/ols-7).
-- You'll find the GitHUb issue for this project linked here: [Ethical Implications of Open Source AI](https://github.com/open-life-science/ols-7/issues/4).
+- You'll find the GitHub issue for this project linked here: [Ethical Implications of Open Source AI](https://github.com/open-life-science/ols-7/issues/4).
 - [Project's Open Canvas](https://docs.google.com/presentation/d/1awcWB-U-H1gddKB7CXbnjuJGIFhffbDmm9eekB2LfWo/edit?usp=sharing)
 - Project name may be modified during the course of the program.
 
