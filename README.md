@@ -5,6 +5,7 @@
 - Project Mentor: [Isil Bilgin](https://github.com/complexbrains)
 - [Project's Open Canvas](https://docs.google.com/presentation/d/1awcWB-U-H1gddKB7CXbnjuJGIFhffbDmm9eekB2LfWo/edit?usp=sharing)
 - Project name may be modified during the course of the program.
+- [Project's Website](https://gigikenneth.github.io/ai-ethical-implications)
 
 ## Project Mission
 - Promoting the responsible use of AI by identifying best practices, analyzing existing policies and providing recommendations for better transparency and accountability. 
