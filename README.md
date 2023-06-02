@@ -1,5 +1,7 @@
 # Ethical Implications of AI
-![1728_TURI_Book sprint_37 data ethics_040619](https://github.com/gigikenneth/ai-ethical-implications/assets/52600214/de9dae9c-f143-4ef2-938b-c399bf055b80)
+
+![1728_TURI_Book sprint_37 data ethics_040619](https://github.com/gigikenneth/ai-ethical-implications/assets/52600214/d191be71-8b71-4f8e-a75a-ff5e39150f78)
+
 *This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence*
 
 
