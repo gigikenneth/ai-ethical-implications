@@ -1,4 +1,7 @@
 # Ethical Implications of AI
+![1728_TURI_Book sprint_37 data ethics_040619](https://github.com/gigikenneth/ai-ethical-implications/assets/52600214/de9dae9c-f143-4ef2-938b-c399bf055b80)
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence*
+
 
 - This repository is created as part of the [7th cohort of the OLS program](https://openlifesci.org/ols-7).
 - You'll find the GitHub issue for this project linked here: [Ethical Implications of Open Source AI](https://github.com/open-life-science/ols-7/issues/4).
