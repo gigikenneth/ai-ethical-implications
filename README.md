@@ -12,6 +12,7 @@
 - Project name may be modified during the course of the program.
 - [Project's Website](https://gigikenneth.github.io/ai-ethical-implications)
 - [Presentation](https://doi.org/10.5281/zenodo.8021827)
+- [Blog about my OLS Journey and details about the project](https://bluegenes.medium.com/delving-into-ai-ethics-my-journey-through-ols-7-open-seeds-33275d62dbbc)
 
 ## Project Mission
 - Promoting the responsible use of AI by identifying best practices, analyzing existing policies and providing recommendations for better transparency and accountability. 
