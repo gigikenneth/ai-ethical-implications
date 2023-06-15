@@ -7,7 +7,7 @@ as some of the documents haven't been updated on there yet, such as Qatar's AI s
 **Step 2:** Read or scan through the policy document to see what topics the policy document addresses (some of them
 can be very long).
 
-**Step 3:** In the template state the name of the country, year of publication of the document and link to the document.
+**Step 3:** Make a copy of the [template](https://docs.google.com/spreadsheets/d/11IXrDDZxfZCl0T3f4_nWHrAmMBIKkLOWHXjhDOWaWyE/edit?usp=sharing) state the name of the country, year of publication of the document and link to the document.
 
 Sort the content of the document using the available categories these include:
 - Healthcare
