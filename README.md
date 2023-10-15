@@ -11,6 +11,7 @@
 - [Project's Open Canvas](https://docs.google.com/presentation/d/1awcWB-U-H1gddKB7CXbnjuJGIFhffbDmm9eekB2LfWo/edit?usp=sharing)
 - Project name may be modified during the course of the program.
 - [Project's Website](https://gigikenneth.github.io/ai-ethical-implications)
+- [Resources (updated semi-regularly)](https://github.com/gigikenneth/ai-ethics-resources)
 - [Presentation](https://doi.org/10.5281/zenodo.8021827)
 - [Blog about my OLS Journey and details about the project](https://bluegenes.medium.com/delving-into-ai-ethics-my-journey-through-ols-7-open-seeds-33275d62dbbc)
 
